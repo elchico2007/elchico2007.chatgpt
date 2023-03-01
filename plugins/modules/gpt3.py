@@ -40,14 +40,14 @@ author:
 EXAMPLES = r'''
 # Pass a simple input
 - name: Test with an input
-  luvalle.chatgpt.gpt3:
+  elchico2007.chatgpt.gpt3:
     model: "text-davinci-003"
     input: "tell me a funny joke"
     api_key: "api_key"
 
 # Test with an instruction
 - name: Test with an input
-  luvalle.chatgpt.gpt3:
+  elchico2007.chatgpt.gpt3:
     model: "text-davinci-edit-001"
     input: "This is a brokan santence."
     instruction: "Fix my grammar"
