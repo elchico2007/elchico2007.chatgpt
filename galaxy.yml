@@ -1,6 +1,6 @@
 namespace: elchico2007
 name: chatgpt
-version: 1.0.0
+version: 0.1.0
 readme: README.md
 authors:
 - Luis Valle <levalle232@gmail.com>
