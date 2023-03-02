@@ -34,3 +34,10 @@ The following example shows how to send a prompt using the 'text-davinci-003'
 ```
 ## Getting your API Key
 Create an account https://platform.openai.com/ then go over to https://platform.openai.com/account/api-keys to generate a unique key.
+
+## Models available
+Model | Description
+--- | ---
+text-davinci-003 | Can do any language task with better quality, longer output, and consistent instruction-following than the curie, babbage, or ada models. Also supports inserting completions within text.
+text-davinci-002 | Similar capabilities to text-davinci-003 but trained with supervised fine-tuning instead of reinforcement learning
+code-davinci-002 | Optimized for code-completion tasks
