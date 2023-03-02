@@ -1,37 +1,11 @@
 namespace: elchico2007
-
 name: chatgpt
-
 version: 1.0.0
-
 readme: README.md
-
 authors:
 - Luis Valle <levalle232@gmail.com>
-
 description: Collection utilizing openAI's API to make queries via Ansible easier
-
-# Either a single license or a list of licenses for content inside of a collection. Ansible Galaxy currently only
-# accepts L(SPDX,https://spdx.org/licenses/) licenses. This key is mutually exclusive with 'license_file'
-license:
-- GPL-2.0-or-later
-
-license_file: ''
-
+license_file: LICENSE
 tags: ['ai', 'openai', 'chatgpt', 'gpt3']
-
-dependencies: {}
-
-# The URL of the originating SCM repository
-repository: http://example.com/repository
-
-# The URL to any online docs
-documentation: http://docs.example.com
-
-# The URL to the homepage of the collection/project
-homepage: http://example.com
-
-# The URL to the collection issue tracker
-issues: http://example.com/issue/tracker
-
-build_ignore: []
+repository: https://github.com/elchico2007/elchico2007.chatgpt
+issues: https://github.com/elchico2007/elchico2007.chatgpt/issues
